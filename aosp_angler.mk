@@ -42,9 +42,5 @@ PRODUCT_PACKAGES += \
 
 # GoogleServices
 PRODUCT_PACKAGES += \
-    GooglePlayServices
-
-# GooglePlay
-PRODUCT_PACKAGES += \
-    GooglePlay
-
+    GooglePlayServices \
+        GooglePlay
