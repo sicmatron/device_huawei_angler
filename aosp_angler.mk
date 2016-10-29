@@ -39,7 +39,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     AOSPLinks
-    
+
 # GoogleServices
 PRODUCT_PACKAGES += \
     GooglePlayServices
